@@ -1,4 +1,6 @@
-### Salut moi c'est Kevin 👋
+# Salut moi c'est Kevin <img src="https://github.com/kferrerux/kferrerux/assets/77007630/0c6626e2-7f15-4c70-9da7-3acdf93f6e56" style="width:50px">
+35 ans, Marseillais, actuellement étudiant en développement WEB & WEB MOBILE au sein de l'organisme de formation SIMPLON
+
 
 <!--
 **kferrerux/kferrerux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
