@@ -1,11 +1,12 @@
-# Salut moi c'est Kevin <img src="https://github.com/kferrerux/kferrerux/assets/77007630/0c6626e2-7f15-4c70-9da7-3acdf93f6e56" style="width:50px">
-35 ans, Marseillais, actuellement étudiant en développement WEB & WEB MOBILE au sein de l'organisme de formation SIMPLON
+# Salut moi c'est Kevin <img src="https://github.com/kferrerux/kferrerux/assets/77007630/c7dce759-f750-469e-b2bc-30f8cfd6fe7b" style="width:50px">
+35 ans, Marseillais, actuellement étudiant en **développement WEB & WEB MOBILE** au sein de l'organisme de formation SIMPLON
+
+  ##### Ce que j'apprends
+  > L'importance du FRONT avec l'assimilation des langages **orientés navigateur**.
+  <img src="https://github.com/kferrerux/kferrerux/assets/77007630/404b5a11-3304-40c7-af0e-f5e280271255" style="width:150px">
 
 
-<!--
-**kferrerux/kferrerux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
