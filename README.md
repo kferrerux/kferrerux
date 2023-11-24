@@ -9,12 +9,15 @@
   > - [CO-Fondateur/Graphiste: bleachweb.com](https://web.archive.org/web/20060223163404/http://www.bleachweb.com/?page=historique)
   > - [Graphiste/rédacteur: champloo-france.com](https://web.archive.org/web/20060618194331/http://www.champloo-france.com/index.php?champloo=presentation)
 
-  ### I . De nos jours ➡️
-  <p align="center">
-  <img src="https://github.com/kferrerux/kferrerux/assets/77007630/404b5a11-3304-40c7-af0e-f5e280271255" alt="Sublime's custom image" style="width:180px"/>
-  </p>
+### I . De nos jours ⏩
 
-  ### II . Mes Objectifs
+Après une carrière de Technicien Informatique, c'est avec une motivation solide et un esprit gonflé à bloc que je décide de me reconvertir professionnellement et de faire de ma passion, mon métier, je démarre alors une nouvelle page de mon histoire avec l'organisme de formation **SIMPLON.co**, je ré-apprends les langages FRONT-END HTML/CSS/JavaScript, orientés client.
+
+<p align="center">
+<img src="https://github.com/kferrerux/kferrerux/assets/77007630/404b5a11-3304-40c7-af0e-f5e280271255" alt="Sublime's custom image" style="width:210px"/>
+</p>
+
+### II . Mes Objectifs
   ##### ***a . Développement Front-end*** :
   Bonne maîtrise des frameworks modernes tels que **React.js** ou **Angular** pour la création d'interfaces utilisateur *dynamiques et réactives*
   > L'importance du FRONT avec l'assimilation des langages **orientés navigateur**, j'apprends à travailler sur des projets collaboratifs simples visant à
