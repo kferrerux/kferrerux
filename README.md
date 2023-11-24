@@ -3,10 +3,12 @@
 
 ### 0 . Un peu d'histoire
 
-11 ans, c'est l'âge auquel je découvre **l'immensité du WEB**, curieux, j'apprends l'existence du **Site Du Zéro** du célèbre **Mathieu Nebra**, ce même site référence qui deviendra **OpenClassroom**. S'en suit alors des heures de sincère passion, d'évidences ou non et de rigueur avec pour unique but la création et la collaboration sur divers projets WEB et notamment la fondation de l'un des premiers sites communautaire autour d'une oeuvre à présent bien connue "**Naruto**", armé d'un de mon premier pseudonyme hyper inspiré, _KaKaShi.S_, je passe alors toutes mes journées à créer, chercher, collaborer sur ces thèmes qui me passionnaient et me passionent encore aujourd'hui, à 35 ans, la culture Japonaise, les Animes, les jeux-vidéos.
+11 ans, c'est l'âge auquel je découvre **l'immensité du WEB**, curieux, j'apprends l'existence du **Site Du Zéro** du célèbre **Mathieu Nebra**, ce même site référence qui deviendra **OpenClassrooms**. S'en suit alors des heures de sincère passion, d'évidences ou non et de rigueur avec pour unique but la création et la collaboration sur divers projets WEB et notamment la fondation de l'un des premiers sites communautaire autour d'une oeuvre à présent bien connue "**Naruto**", armé d'un de mon premier pseudonyme hyper inspiré, _KaKaShi.S_, je passe alors toutes mes journées à créer, chercher, collaborer sur ces thèmes qui me passionnaient et me passionent encore aujourd'hui, à 35 ans, la culture Japonaise, les Animes, les jeux-vidéos.
 
-  > [Retour dans le temps : naruto-ressources.com](https://web.archive.org/web/20051122153139/http://azdine.mansour.free.fr/forums/)
-
+  - [Fondateur: naruto-ressources.com](https://web.archive.org/web/20050225020851/http://azdine.mansour.free.fr/naruto_ressources/)
+  - [CO-Fondateur/Graphiste: bleachweb.com](https://web.archive.org/web/20060223163404/http://www.bleachweb.com/?page=historique)
+  - [Graphiste/rédacteur: champloo-france](https://web.archive.org/web/20060618194331/http://www.champloo-france.com/index.php?champloo=presentation)
+  - [Graphiste: naruto-ressources.com](https://web.archive.org/web/20051122153139/http://azdine.mansour.free.fr/forums/)
 
   ### I . Actuellement
   <p align="center">
