@@ -1,7 +1,7 @@
-# Salut moi c'est Kevin <img src="https://github.com/kferrerux/kferrerux/assets/77007630/7746bcb0-568d-40e7-8367-0bf275442f1a" style="width:50px">
-## UI/UX Designer & Etudiant en **développement WEB & WEB MOBILE**
+# FERRER KEVIN <img align="right" src="https://github.com/kferrerux/kferrerux/assets/77007630/01ef4e42-66d8-4a6f-8cbc-4abfa19967e8" style="width:50px">
+**UI/UX Designer & Etudiant en développement WEB & WEB MOBILE**
 
-### 0 . Un peu d'histoire
+### 0 . Un peu d'histoire 💬
 
 11 ans, c'est l'âge auquel je découvre **l'immensité du WEB**, curieux, j'apprends l'existence du **Site Du Zéro** du célèbre **Mathieu Nebra**, ce même site référence qui deviendra **OpenClassrooms**. S'en suit alors des heures de sincère passion, d'évidences ou non et de rigueur avec pour unique but la création et la collaboration sur divers projets WEB et notamment la fondation de l'un des premiers sites communautaire autour d'une oeuvre à présent bien connue "**Naruto**", équipé de mon premier pseudonyme hyper inspiré, _KaKaShi.S_, je passe alors toutes mes journées à créer, chercher, collaborer sur ces thèmes qui me passionnaient et me passionent encore aujourd'hui, à 35 ans, la culture Japonaise, les Animes, les jeux-vidéos.
 
