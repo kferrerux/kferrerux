@@ -3,7 +3,7 @@
 
 ### 0 . Un peu d'histoire 💬
 
-11 ans, l'âge auquel je découvre le WEB, curieux, j'apprends l'existence du **Site_Du_Zéro** crée par **Mathieu Nebra**, une référence qui deviendra **OpenClassrooms**. S'en suivent alors des heures de ténacité afin de concevoir, collaborer sur divers projets WEB et notamment **la fondation de l'un des premiers sites communautaire en France autour d'une oeuvre à présent bien connue "Naruto"**, équipé de mon premier pseudonyme hyper inspiré, _KaKaShi.S_, je passe tout mon temps à créer, chercher, échanger sur les thèmes qui me passionnaient et me passionent encore à 35 ans, la culture Japonaise 🍣, les Animes 🐉, les Jeux-vidéos 🎮
+11 ans, l'âge auquel je découvre le `WEB`, curieux, j'apprends l'existence du **Site_Du_Zéro** crée par **Mathieu Nebra**, une référence qui deviendra **OpenClassrooms**. S'en suivent alors des heures de ténacité afin de concevoir, collaborer sur divers projets WEB et notamment **la fondation de l'un des premiers sites communautaire en France autour d'une oeuvre à présent bien connue "Naruto"**, équipé de mon premier pseudonyme hyper inspiré, _KaKaShi.S_, je passe tout mon temps à `créer`, `chercher`, `échanger` sur les thèmes qui me passionnaient et me passionent encore à 35 ans, la culture Japonaise 🍣, les Animes 🐉, les Jeux-vidéos 🎮
 
   > - [Fondateur: naruto-ressources.com](https://web.archive.org/web/20050306015820/http://azdine.mansour.free.fr/naruto_ressources/staff.php)
   > - [CO-Fondateur/Graphiste: bleachweb.com](https://web.archive.org/web/20060223163404/http://www.bleachweb.com/?page=historique)
@@ -11,7 +11,7 @@
 
 ### I . De nos jours ⏩
 
-Après une carrière de Technicien Informatique et un dîplome d'UI/UX Designer obtenu en 2022, c'est avec une motivation solide et un esprit gonflé à bloc que je décide de compléter mes skills et professionnaliser le tout, en somme, de faire de ma passion, mon métier, je démarre alors une nouvelle page de mon histoire avec l'organisme de formation **SIMPLON.co** et suit une formation de Développeur WEB/WEB MOBILE FULLSTACK, je ré-apprends les langages FRONT & BACK END.
+Après une carrière de Technicien Informatique et un dîplome d'`UI/UX` Designer obtenu en 2022, c'est avec une motivation solide et un esprit gonflé à bloc que je décide de compléter mes skills et `professionnaliser` le tout, en somme, de faire de ma passion, mon métier, je démarre alors une nouvelle page de mon histoire avec l'organisme de formation **SIMPLON.co** et suit une formation de Développeur WEB/WEB MOBILE FULLSTACK, je ré-apprends les langages FRONT & BACK END.
 
 <p align="center">
 <img src="https://github.com/kferrerux/kferrerux/assets/77007630/872b4849-dde4-439b-b24a-90b5da99bf99" alt="frontend languages" style="width:400px"/>
@@ -22,7 +22,7 @@ Après une carrière de Technicien Informatique et un dîplome d'UI/UX Designer 
 #### a . Ce que je maîtrise :
   
 - [x] **Langages de programmation** : HTML, CSS, JavaScript
-- [x] **Frameworks Frontend** : [React, Angular]
+- [x] **Frameworks Frontend** : React, Angular
 - [x] **Outils de développement** : Git, VS Code
 
 #### b . En cours d'acquisition :
