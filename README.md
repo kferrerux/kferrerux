@@ -17,17 +17,19 @@ Après une carrière de Technicien Informatique et un dîplome d'UI/UX Designer 
 <img src="https://github.com/kferrerux/kferrerux/assets/77007630/872b4849-dde4-439b-b24a-90b5da99bf99" alt="frontend languages" style="width:400px"/>
 </p>
 
-### II . Mes acquis & objectifs ☑️
-  <h4 align=center>a . Développement FRONTEND :</h4>
+### II . Mes compétences & objectifs 🚀
 
-  > Bonne maîtrise des frameworks modernes tels que **React.js** ou **Angular** pour la création d'interfaces utilisateur *dynamiques et réactives*, 
-  > assimilation des langages **orientés client**, j'apprends à travailler sur des projets collaboratifs simples visant à assimiler les bonnes pratiques.
+#### a . Ce que je maîtrise :
+  
+- [x] **Langages de programmation** : HTML, CSS, JavaScript
+- [x] **Frameworks Frontend** : [React, Angular]
+- [x] **Outils de développement** : Git, VS Code
 
-  <h4 align=center>b . Développement BACKEND :</h4>
+#### b . En cours d'acquisition :
 
-  > Apprendre à créer des applications **côté serveur** à l'aide de technologies comme **Node.js**, **Django**, ou **Flask**, comprendre la gestion des bases 
-  > de données et la création de requêtes efficaces (**SQL** ou **NoSQL**).
+Apprendre à créer des applications **côté serveur** à l'aide de technologies comme **Node.js**, **Django**, ou **Flask**, comprendre la gestion des bases 
+de données et la création de requêtes efficaces (**SQL** ou **NoSQL**).
 
 ### III . Je suis disponible ✋
 
-*A la recherche d'un stage en entreprise, je suis pleinement disponible et serais heureux de pouvoir intégrer vos équipes*
+A la recherche d'un stage en entreprise, je suis pleinement disponible et serais heureux de pouvoir intégrer vos équipes, N'hésitez pas à me contacter pour discuter de projets, opportunités de collaboration ou simplement pour échanger sur le développement web!
