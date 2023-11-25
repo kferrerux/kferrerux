@@ -1,4 +1,4 @@
-# Salut! <mark>Je suis Kevin</mark> <img align="right" src="https://github.com/kferrerux/kferrerux/assets/77007630/01ef4e42-66d8-4a6f-8cbc-4abfa19967e8" style="width:50px">
+# Salut! Je suis Kevin <img align="right" src="https://github.com/kferrerux/kferrerux/assets/77007630/01ef4e42-66d8-4a6f-8cbc-4abfa19967e8" style="width:50px">
 > **UI/UX Designer & Etudiant en développement WEB & WEB MOBILE** (En recherche de stage)
 
 ### 0 . Un peu d'histoire 💬
