@@ -1,5 +1,8 @@
 # Salut! Je suis Kevin <img align="right" src="https://github.com/kferrerux/kferrerux/assets/77007630/01ef4e42-66d8-4a6f-8cbc-4abfa19967e8" style="width:50px">
+
 > **UI/UX Designer & Etudiant en développement WEB & WEB MOBILE** (En recherche de stage)
+
+![banner](https://github.com/kferrerux/kferrerux/assets/77007630/f39d5ecd-0bf4-41ee-8148-b572e2ae1e5c)
 
 ### 0 . Un peu d'histoire 💬
 
@@ -19,15 +22,15 @@ Après une carrière de Technicien Informatique et un dîplome d'`UI/UX` Designe
 
 ### II . Mes compétences & objectifs 🚀
 
-#### a . Ce que je maîtrise :
+#### a . Mes compétences :
   
-- [x] **Langages de programmation** : HTML, CSS, JavaScript
-- [x] **Frameworks Frontend** : React, Angular
+- [x] **Langages de programmation** : HTML, CSS, JAVASCRIPT
+- [x] **Frameworks Frontend** : Reactjs - (En cours d'apprentissage)
 - [x] **Outils de développement** : Git, VS Code
 
 #### b . En cours d'acquisition :
 
-Apprendre à créer des applications **côté serveur** à l'aide de technologies comme **Node.js**, **Django**, ou **Flask**, comprendre la gestion des bases 
+Intégration de maquette responsive, manipulation du DOM,  apprendre à créer des applications **côté serveur** à l'aide de technologies comme **Node.js**, **Django**, ou **Flask**, comprendre la gestion des bases 
 de données et la création de requêtes efficaces (**SQL** ou **NoSQL**).
 
 ### III . Je suis disponible ✋
