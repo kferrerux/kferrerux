@@ -1,6 +1,6 @@
 # Salut! Je suis Kevin <img align="right" src="https://github.com/kferrerux/kferrerux/assets/77007630/01ef4e42-66d8-4a6f-8cbc-4abfa19967e8" style="width:50px">
 
-> **UI/UX Designer & Etudiant en développement WEB & WEB MOBILE** (En recherche de stage)
+> **UI/UX Designer & Etudiant en développement WEB & WEB MOBILE**
 
 ![banner](https://github.com/kferrerux/kferrerux/assets/77007630/f39d5ecd-0bf4-41ee-8148-b572e2ae1e5c)
 
