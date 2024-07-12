@@ -2,7 +2,7 @@
 
 > **UI/UX Designer & Développeur WEB & WEB MOBILE**
 
-![banner](![ban2024](https://github.com/user-attachments/assets/e56b40d5-ae5d-4564-8a9f-fb50510e9e5f))
+![ban2024](https://github.com/user-attachments/assets/fe5b06ff-8cfa-4a2b-96ca-f9012605535b)
 
 ### 0 . Un peu d'histoire 💬
 
